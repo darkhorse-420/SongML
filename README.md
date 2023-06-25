@@ -4,6 +4,6 @@
  After the preprocessing step, I have trained the model on KNN Regressor to predict the popularity of a song.
 Testing error = 3%
 
-The entire notebook along with explaination for the code is given in my Kaggle notebook - https://www.kaggle.com/code/ambujasenapati/song-popularity-prediction-2
+The entire code along with explaination for the code is given in my Kaggle notebook - https://www.kaggle.com/code/ambujasenapati/song-popularity-prediction-2
  
  
